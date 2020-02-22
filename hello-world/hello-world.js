@@ -1,1 +1,1 @@
-hello mybaby!
+console.log("hello mybaby!");
